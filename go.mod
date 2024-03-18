@@ -1,4 +1,4 @@
-module main.go
+module emp-mini
 
 go 1.22.0
 
